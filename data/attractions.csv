@@ -1,0 +1,13 @@
+name_ru,name_en,district,type,on_klint,paid,annual_visitors,visitors_year,source,status
+Сланцевский историко-краеведческий музей,Slantsy Local History Museum,Slantsevsky,museum,near,,,,,"candidate: verify it exists; key baseline"
+Кингисеппский историко-краеведческий музей,Kingisepp Local History Museum,Kingiseppsky,museum,near,yes,11000,,Thesis figure; find original source,verify year and source
+Крепость Ям,Yam Fortress (Kingisepp),Kingiseppsky,fortress,near,,,,,candidate
+Ивангородская крепость,Ivangorod Fortress,Kingiseppsky,fortress,near,yes,,,,candidate
+Копорская крепость,Koporye Fortress,Lomonosovsky,fortress,yes,yes,,,,candidate
+Лопухинка (радоновые источники),Lopukhinka radon springs,Lomonosovsky,natural site,yes,no,,,,"candidate: free, attendance may be unavailable"
+Саблинские пещеры и водопады,Sablino caves and waterfalls,Tosnensky,natural site / caves,yes,yes,,,,candidate
+Тосненский водопад,Tosno waterfall,Tosnensky,natural site,yes,no,,,,"candidate: free"
+Старая Ладога (музей-заповедник),Staraya Ladoga Museum-Reserve,Volkhovsky,museum-reserve,yes,yes,,,,candidate
+Путиловские каменоломни / долина реки Лава,Putilovo quarries / Lava river canyon,Kirovsky,natural site,yes,,,,,candidate
+Музей-заповедник Прорыв блокады Ленинграда,Breakthrough of the Siege Museum,Kirovsky,museum,near,yes,,,,"candidate: competitor class (military history)"
+Нарвские пороги / Ивангородский историко-художественный музей,Ivangorod Museum (art and history),Kingiseppsky,museum,near,yes,,,,candidate
