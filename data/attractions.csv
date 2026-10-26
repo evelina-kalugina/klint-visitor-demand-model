@@ -1,13 +1,15 @@
-name_ru,name_en,district,type,on_klint,paid,annual_visitors,visitors_year,source,status
-Сланцевский историко-краеведческий музей,Slantsy Local History Museum,Slantsevsky,museum,near,,,,,"candidate: verify it exists; key baseline"
-Кингисеппский историко-краеведческий музей,Kingisepp Local History Museum,Kingiseppsky,museum,near,yes,11000,,Thesis figure; find original source,verify year and source
-Крепость Ям,Yam Fortress (Kingisepp),Kingiseppsky,fortress,near,,,,,candidate
-Ивангородская крепость,Ivangorod Fortress,Kingiseppsky,fortress,near,yes,,,,candidate
-Копорская крепость,Koporye Fortress,Lomonosovsky,fortress,yes,yes,,,,candidate
-Лопухинка (радоновые источники),Lopukhinka radon springs,Lomonosovsky,natural site,yes,no,,,,"candidate: free, attendance may be unavailable"
-Саблинские пещеры и водопады,Sablino caves and waterfalls,Tosnensky,natural site / caves,yes,yes,,,,candidate
-Тосненский водопад,Tosno waterfall,Tosnensky,natural site,yes,no,,,,"candidate: free"
-Старая Ладога (музей-заповедник),Staraya Ladoga Museum-Reserve,Volkhovsky,museum-reserve,yes,yes,,,,candidate
-Путиловские каменоломни / долина реки Лава,Putilovo quarries / Lava river canyon,Kirovsky,natural site,yes,,,,,candidate
-Музей-заповедник Прорыв блокады Ленинграда,Breakthrough of the Siege Museum,Kirovsky,museum,near,yes,,,,"candidate: competitor class (military history)"
-Нарвские пороги / Ивангородский историко-художественный музей,Ivangorod Museum (art and history),Kingiseppsky,museum,near,yes,,,,candidate
+name_ru,name_en,district,type,on_klint,paid,annual_visitors,visitors_year,source,role,status
+Сланцевский историко-краеведческий музей,Slantsy Local History Museum,Slantsevsky,museum,near,yes,10000,,"peterburg2.ru (""up to 10,000 a year"", undated)",calibration,"exists (branch of Museum Agency, Kirova 14); key baseline; need dated figure"
+Кингисеппский историко-краеведческий музей,Kingisepp Local History Museum,Kingiseppsky,museum,near,yes,11000,,"kudago.com (undated, = thesis figure)",calibration,"permanent exhibition closed 2018 to June 2024, so 11,000 is pre-2018; need 2024/2025 figure"
+Ивангородский музей (крепость + музей крепостей + художественная галерея),Ivangorod Museum (fortress and galleries),Kingiseppsky,fortress / museum,near,yes,,,,calibration,"one branch, merged two old rows; border zone, entry pass needed; 218k visited the TOWN in 2023 (not fortress count)"
+Копорская крепость,Koporye Fortress,Lomonosovsky,fortress,yes,yes,,,,calibration,"closed 2013 to 2022, partly group visits only since; attendance years may be distorted"
+Староладожский музей-заповедник,Staraya Ladoga Museum-Reserve,Volkhovsky,museum-reserve,yes,yes,140000,,"kudago.com (undated)",calibration,separate state institution (GBUK LO) so may appear on its own in 8-NK data; need dated figure
+Саблинские пещеры (памятник природы Саблинский),Sablino caves and waterfalls,Tosnensky,natural site / caves,yes,yes,,,,calibration,private/NGO operator (sablino.net); includes Tosno waterfall; find attendance
+Палеопарк Путилово,Putilovo Paleopark (fossil digging),Kirovsky,geology park,yes,yes,,,,calibration,NEW: closest geology analogue; private; find attendance
+Гдовский кремль и краеведческий музей,Gdov Kremlin and Local Museum,Gdovsky (Pskov Oblast),fortress / museum,no,,,,,competitor,NEW: about 60 km from Slantsy; matters for Huff competition; verify paid and attendance
+Крепость Орешек (Шлиссельбург),Oreshek Fortress (Shlisselburg),Kirovsky,fortress,near,yes,,,,calibration,"NEW candidate: fortress class with published attendance (State Museum of the History of St Petersburg); seasonal"
+Музей-усадьба Н.К. Рериха (Извара),Roerich Estate Museum (Izvara),Volosovsky,museum,no,yes,,,,calibration,NEW candidate: small rural museum comparator; verify
+Музей-заповедник «Прорыв блокады Ленинграда»,Breakthrough of the Siege Museum,Kirovsky,museum (military history),near,yes,,,,separate class,different motive and many school trips; probably exclude from calibration
+Крепость Ям (валы),Yam Fortress ramparts (Kingisepp),Kingiseppsky,fortress ruins,near,no,,,,context,"free, no counts; next to Kingisepp museum; map only"
+Лопухинка (радоновые источники),Lopukhinka radon springs,Lomonosovsky,natural site,yes,no,,,,context,"free, no counts; map only"
+Каньон реки Лава,Lava river canyon,Kirovsky,natural site,yes,no,,,,context,"free, eco-trail planned; split from Putilovo row; map only"
