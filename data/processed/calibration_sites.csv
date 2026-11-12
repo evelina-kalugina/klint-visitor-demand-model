@@ -1,0 +1,9 @@
+name_en,type,year,visitors,heritage,pred_C,factor_C,loo_pred_C,loo_error_C
+Oreshek Fortress (Shlisselburg),fortress,2023,198000,1,150351.0,1.32,115898.0,1.71
+Staraya Ladoga Museum-Reserve,museum-reserve,2021,140000,1,77820.0,1.8,63396.0,2.21
+Koporye Fortress,fortress,2025,47179,1,88900.0,0.53,109884.0,0.43
+Ivangorod Museum (fortress and galleries),fortress / museum,2025,40656,1,51117.0,0.8,61086.0,0.67
+Putilovo Paleopark (fossil digging),geology park,2025,13000,0,15797.0,0.82,19021.0,0.68
+Roerich Estate Museum (Izvara),museum,2025,10713,0,11461.0,0.93,11780.0,0.91
+Kingisepp Local History Museum,museum,2025,9377,0,7782.0,1.2,7285.0,1.29
+Slantsy Local History Museum,museum,2025,4645,0,4305.0,1.08,3889.0,1.19
