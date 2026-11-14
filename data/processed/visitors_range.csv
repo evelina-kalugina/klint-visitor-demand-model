@@ -1,0 +1,9 @@
+group,component,low,base,high
+museum,day_trips_model,19113,36015,64791
+museum,long_distance_tourists,0,3601,12958
+museum,museum_total,19113,39616,77750
+institute,institute_events,160,600,1600
+institute,student_field_groups,150,500,1250
+institute,visiting_researchers,200,600,1500
+institute,interns,200,600,1200
+institute,institute_total,710,2300,5550
